@@ -1,0 +1,82 @@
+.staffreg-main{
+    background: #2e3047;
+    height: 92vh;
+    padding-top: 1%;
+}
+.staff-reg-card-heading{
+    text-align: center;
+}
+.staffreg-card{
+    /* border: 2px solid #53d3d1; */
+    background-color:#2e3047 ;
+    width: 70%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.mmm{
+   /* background-color: #53d3d1; */
+   display: flex;
+   justify-content: right;
+   padding-right: 50px;
+}
+.admin-logout span{
+    color: #53d3d1;
+    padding: 0;
+}
+.admin-logout{
+    padding: 4px;
+    width: 14%;
+    height: 40px;
+    border-radius: 40px;
+    /* background-color: #53d3d1; */
+    border: 2px solid #53d3d1;
+    margin-bottom: 10px;
+}
+.admin-logout button{
+    margin-left: 29px;
+    padding: 2px 7px;
+    background-color: #53d3d1;
+    color: #2e3047;
+    font-weight: 800;
+    border-radius: 40px;
+    border: 1px solid #53d3d1;
+}
+.staffreg-card h4{
+    color: #53d3d1;
+    font-weight: 800;
+}
+.staff-reg-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.staff-reg-form input{
+    background-color: transparent;
+    border: 2px solid #53d3d1 ;
+    margin-top: 20px;
+    color: #53d3d1;
+    width: 30%;
+    margin-right: 10px;
+    height: 40px;
+    color: white;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.staffreg-card button{
+    background-color: #53d3d1;
+    border: 2px solid #53d3d1 ;
+    color: white;
+    margin-top: 20px;
+    padding: 5px 16px;
+    border-radius: 5px;
+}
+.staff-reg-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+}
+.file{
+    border: none !important;
+    color: white;
+}
